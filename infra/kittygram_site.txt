@@ -1,0 +1,5 @@
+IP: IP 51.250.100.34;
+name_taski: https://v-fortaski.ddns.net/;
+name_kittygram: https://kittygram.servebeer.com;
+login: admin;
+password: 1;
